@@ -1,0 +1,9 @@
+1
+Cousin(Kartik,Abhijit)
+6
+Parent(Kaavya,Vivek)
+Parent(Kartik,Latika)
+Parent(Kartik,Vasudev)
+Parent(Abhijit,Harish)
+Brother(Vasudev,Harish)
+Parent(x,y) & Parent(a,b) & Brother(y,b) => Cousin(x,a)

@@ -1,0 +1,9 @@
+3
+Female(Nexie)
+Male(Poe)
+Female(Bella)
+4
+~Female(x) => Male(x)
+~Male(x) => Female(x)
+~Male(Poe)
+~Male(Bella)

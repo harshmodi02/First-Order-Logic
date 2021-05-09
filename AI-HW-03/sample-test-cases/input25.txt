@@ -1,0 +1,7 @@
+1
+Cousin(Kartik,Abhijit)
+4
+Father(Kartik,Vasudev)
+Father(Abhijit,Harish)
+Brother(Vasudev,Harish)
+Father(x,y) & Father(a,b) & Brother(y,b) => Cousin(x,a)
